@@ -6,7 +6,11 @@ Sites � scanner :
 Couleurs de l'application :
 Rouge sur fond vert
 Titre de l'application :
+<<<<<<< Upstream, based on interfcae-web
 Resaspi
 
 olala
 popo
+=======
+Resaspi
+>>>>>>> 07c23bd Définition des tâches à effectuer
