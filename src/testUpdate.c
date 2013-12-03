@@ -1,3 +1,3 @@
-void test(){
+void testUpdate(){
 //je suis une fonction de test
 }
